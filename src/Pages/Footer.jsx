@@ -25,16 +25,16 @@ const Footer = () => {
 									</a>
 								</li>
 								<li>
-								<a href="https://www.instagram.com/dafyall/?hl=id" class="hover:underline">
-										DAFYALL
-									</a>
-								</li>
-								<li>
-									<a href="https://www.instagram.com/dapaaapaaa/?hl=id" class="hover:underline">
+								<a href="https://www.instagram.com/dapaaapaaa/?hl=id" class="hover:underline">
 										DAFFA
 									</a>
 								</li>
-							</ul>
+								<li>
+									<a href="https://www.instagram.com/dafyall/?hl=id" class="hover:underline">
+									DAFYALL
+									</a>
+								</li>
+							    </ul>
 						</div>
 						<div className="">
 							<h2 class="mb-4 text-sm font-semibold uppercase text-white">Follow us</h2>
