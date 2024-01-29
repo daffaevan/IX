@@ -25,6 +25,11 @@ const Footer = () => {
 									</a>
 								</li>
 								<li>
+								<a href="https://www.instagram.com/dafyall/?hl=id" class="hover:underline">
+										DAFYALL
+									</a>
+								</li>
+								<li>
 									<a href="https://www.instagram.com/dapaaapaaa/?hl=id" class="hover:underline">
 										DAFFA
 									</a>
@@ -56,7 +61,7 @@ const Footer = () => {
 				<div class="sm:flex sm:items-center sm:justify-between">
 					<div class="flex mt-4 justify-center sm:mt-0">
 						<p className="text-[0.7rem] text-white opacity-70">
-							© {new Date().getFullYear()} Kelas IX F | Di Kelola Oleh DAFFA Ganteng
+							© {new Date().getFullYear()} Kelas IX F | Di Kelola Oleh DAFFA Gnteng
 						</p>
 					</div>
 				</div>
