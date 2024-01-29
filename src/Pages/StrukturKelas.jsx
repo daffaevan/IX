@@ -209,7 +209,11 @@ const StrukturKelas = () => {
 						<BorderStruktur Jabatan="" Nama="Jihan" Width="120px" />
 					</div>
 
-					
+					<div className="flex-col hidden lg:flex">
+						<BorderStruktur Jabatan="Kesehatan" Nama="Daffa" Width="120px" />
+						<div className="py-[3%]"></div>
+						<BorderStruktur Jabatan="" Nama="Dalva" Width="120px" />
+					</div>
 				</div>
 
 				{/* Kesehatan */}
