@@ -44,7 +44,7 @@ const Home = () => {
 				<div className="flex justify-center items-center flex-col h-[100vh]">
 					<h5 className="text-[1.4rem] font-semibold">Hi, Visitor!</h5>
 					<h1 className="text-7xl font-extrabold" id="Glow">
-						WELCOME
+						WELKOMBEK
 					</h1>
 					<h6 className="text-sm" style={{ letterSpacing: "5px" }}>
 						TO IX F

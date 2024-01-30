@@ -16,7 +16,7 @@ const Navbar = () => {
 				</div>
 				<div className={`text-center text-white ${isMenuOpen ? "hidden" : ""}`}>
 					<div className="text-[0.7rem]">Hi, visitor!</div>
-					<div className="font-bold text-[1rem]">WELCOME</div>
+					<div className="font-bold text-[1rem]">WELKAMBEK</div>
 				</div>
 
 				<div
@@ -57,7 +57,7 @@ const Navbar = () => {
 			{/* Dekstop */}
 			<div className="flex justify-between relative top-3 hidden lg:flex">
 				<div>
-					<img src="/logodinas.png" className="w-12 h-12 rounded-full" alt="" />
+					<img src="/logobaru.png" className="w-12 h-12 rounded-full" alt="" />
 				</div>
 				<ul className="mt-2 flex gap-5">
 					<li className="mb-4">
