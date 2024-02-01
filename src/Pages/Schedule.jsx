@@ -31,20 +31,20 @@ const Schedule = () => {
   // Menentukan kelompok piket berdasarkan minggu saat ini
   if (currentWeek === 2 || currentWeek === 4) {
     piketGroup = [
-      ["Nicolas", "Togi", "Paulista", "Damar"],
-      ["Farel", "Jeriko", "Wahyu", "Davina"],
-      ["Alya", "Hendri", "Hisyam", "Dafy"],
-      ["Putri", "Natar", "Wahid", "Fadliansyah"],
-      ["Cariska", "Pratiwi", "Ridho", "Farji"],
+      ["Daffa", "Kayla", "Billy", "Chintya", "Alif", "Adnan", "Yudha"],
+      ["CHika", "Panji", "Muzaky", "Fitri", "Azizah", "Bayu" ,"Risky Alif" ,"Cia"],
+      ["Paris", "Friska", "Shinta", "Rafli" ,"Izza" ,"Dika" ,"Jihan"],
+      ["Emil", "Hafshaf", "Anisha", "Dalva" ,"Raisa" ,"Sandi"],
+      ["Christian", "Nadjwa", "Paul", "Tirzah" ,"Ridha" ,"Zahra"],
     ];
     /* sementara tuker week - masih perbaikan */
   } else if (currentWeek === 1 || currentWeek === 3) {
     piketGroup = [
-      ["Annissa", "Daus", "Eki", "Attala"],
-      ["Sera", "Sultan", "Dimas", "Lista"],
-      ["Windi", "Amel", "Arif", "Fadli"],
-      ["Zaini", "Dendi", "Raka", "Bari"],
-      ["Putri", "Paulista", "Nila"],
+      ["Daffa", "Kayla", "Billy", "Chintya", "Alif", "Adnan", "Yudha"],
+      ["CHika", "Panji", "Muzaky", "Fitri", "Azizah", "Bayu" ,"Risky Alif" ,"Cia"],
+      ["Paris", "Friska", "Shinta", "Rafli" ,"Izza" ,"Dika" ,"Jihan"],
+      ["Emil", "Hafshaf", "Anisha", "Dalva" ,"Raisa" ,"Sandi"],
+      ["Christian", "Nadjwa", "Paul", "Tirzah" ,"Ridha" ,"Zahra"],
     ];
   }
 
@@ -110,7 +110,7 @@ const Schedule = () => {
             </div>
           ))
         ) : (
-          <p className="opacity-50">Maaf Sistem Jadwal Sedang ada perbaikan</p>
+          <p className="opacity-50">Maaf Sistem Bug Karna Chindo</p>
         )}
       </div>
     </>
